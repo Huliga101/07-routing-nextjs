@@ -1,0 +1,29 @@
+.footer {
+  margin-top: auto;
+  padding: 24px 32px;
+  border-top: 1px solid #e5e7eb;
+  background-color: #ffffff;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.content p {
+  margin: 0;
+}
+
+.wrap {
+  display: flex;
+  gap: 24px;
+}
+
+.wrap a {
+  font-weight: 500;
+  text-decoration: underline;
+}
