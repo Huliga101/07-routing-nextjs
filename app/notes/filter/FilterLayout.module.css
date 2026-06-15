@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  gap: 32px;
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 40px 24px;
+}
+
+.sidebar {
+  width: 220px;
+  flex-shrink: 0;
+}
+
+.content {
+  flex: 1;
+}
